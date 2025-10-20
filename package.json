@@ -52,7 +52,7 @@
     "@stylistic/eslint-plugin": "^5.4.0",
     "@types/debug": "^4.1.12",
     "@types/filesystem": "^0.0.36",
-    "@types/node": "^24.3.3",
+    "@types/node": "^20.19.22",
     "@types/sinon": "^17.0.4",
     "@types/yargs": "^17.0.33",
     "@typescript-eslint/eslint-plugin": "^8.43.0",
