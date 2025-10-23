@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.9.0...chrome-devtools-mcp-v0.10.0) (2025-10-23)
+
+
+### 🎉 Features
+
+* add a press_key tool ([#458](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/458)) ([b427392](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/b4273923928704e718e0a0f8b5cc86758416e994))
+
 ## [0.9.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.8.1...chrome-devtools-mcp-v0.9.0) (2025-10-22)
 
 
